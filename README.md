@@ -21,8 +21,11 @@ Frontend
 ---
 📌 Sobre mim
 💻 Trabalho com backend e frontend — do banco de dados à interface
+
 🔍 Gosto de resolver problemas que exigem pensar antes de codar
+
 📖 Aprendendo continuamente — arquitetura de sistemas, boas práticas, novas ferramentas
+
 🤝 Aberto a colaborações em projetos open source ou iniciativas que valham o tempo
 ---
 
